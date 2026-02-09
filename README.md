@@ -85,7 +85,7 @@ OR
 ### **IMPORTANT WARNING**
 ```python
 # ❌ NEVER commit with real credentials:
-password = "your_app_password_here  # HARDCODED PASSWORD
+password = "your_app_password_here"  # HARDCODED PASSWORD
 
 # ✅ SECURE Alternatives:
 # 1. Environment variables
